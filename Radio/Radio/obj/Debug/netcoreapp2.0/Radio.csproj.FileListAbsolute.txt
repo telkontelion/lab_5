@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\bin\Debug\netcoreapp2.0\Radio.deps.json
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\bin\Debug\netcoreapp2.0\Radio.runtimeconfig.json
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\bin\Debug\netcoreapp2.0\Radio.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\bin\Debug\netcoreapp2.0\Radio.dll
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\obj\Debug\netcoreapp2.0\Radio.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\obj\Debug\netcoreapp2.0\Radio.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\obj\Debug\netcoreapp2.0\Radio.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\obj\Debug\netcoreapp2.0\Radio.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\bin\Debug\netcoreapp2.0\Radio.pdb
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\obj\Debug\netcoreapp2.0\Radio.dll
+C:\Users\Никита\Desktop\Bets\Константин Огородников\5 lab\Radio\Radio\obj\Debug\netcoreapp2.0\Radio.pdb
